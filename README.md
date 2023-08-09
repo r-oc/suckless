@@ -4,7 +4,6 @@
 |__ --|  |  |  __|    <|  |  -__|__ --|__ --|
 |_____|_____|____|__|__|__|_____|_____|_____|
        software that sucks less            
-```
 
 dwm - dynamic window manager
 ============================
@@ -43,3 +42,4 @@ patches
   - GRID
   - ALPHA
 
+```
