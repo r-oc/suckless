@@ -6,7 +6,8 @@
        software that sucks less            
 ```
 
-# dwm - dynamic window manager
+# dwm
+dwm - dynamic window manager
 ============================
 dwm is an extremely fast, small, and dynamic window manager for X.
 
@@ -24,8 +25,10 @@ patches
   - CFACTS
   - PERTAG
 
-# st - simple terminal
+# st
+st - simple terminal
 ============================
+
 st is a simple terminal emulator for X which sucks less.
 
 patches
@@ -34,7 +37,8 @@ patches
   - BOXDRAW
   - ALPHA
 
-# dmenu - dynamic menu
+# dmenu
+dmenu - dynamic menu
 ============================
 dmenu is an efficient dynamic menu for X.
 
